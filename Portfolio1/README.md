@@ -39,10 +39,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/jasiiin999/portfolio-website.git
 ```
-Open index.html in your browser.
 
-```
 🛠 Technologies Used
+
 - HTML5
 - CSS3 (Custom + Responsive)
 - Bootstrap 5
