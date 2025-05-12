@@ -38,6 +38,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/jasiiin999/portfolio-website.git
+```
 Open index.html in your browser.
 
 ```
